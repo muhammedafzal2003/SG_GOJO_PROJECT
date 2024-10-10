@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>Muhammed afzal AutoFilter Bot</b>
+  <b>MUHAMMED AFZAL AUTO FILTER BOT</b>
 </h1>
 
 
@@ -104,6 +104,10 @@ python3 bot.py
 </p>
 </details>
 
+:purple_heart: :purple_heart: :purple_heart: THANK YOU  :purple_heart: :purple_heart: :purple_heart:
 
-  
 
+:boom: [JOIN OUR TELEGRAM CHANNEL](https://t.me/+pTB4BwLjwdlNzA1)
+
+
+:boom: [JOIN OUR MOVIES GROUP](https://t.me/StarGalaxy00)
